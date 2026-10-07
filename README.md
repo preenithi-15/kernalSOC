@@ -1,3 +1,7 @@
+
+
+
+
 # KernelSOC — Security Operations Center Web Dashboard
 
 **KernelSOC** is a judge-facing Security Operations Center (SOC) web application built to visualize the Operating System (OS) kernel behavior of an Arduino/ESP32 security prototype.
@@ -102,6 +106,9 @@ Web App dispatches commands to the microcontroller:
 ```
 
 ---
+
+DEMO VIDEO
+https://github.com/user-attachments/assets/3b27780d-548d-4067-9c83-c5a257b39839
 
 ## 📋 Acceptance Checklist Verification
 
