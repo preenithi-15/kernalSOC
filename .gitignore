@@ -1,0 +1,9 @@
+# Log files
+*.log
+
+# Temp files
+extracted_requirements.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
